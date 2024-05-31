@@ -1,0 +1,51 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "title": "Html"
+    },
+    {
+      "id": "2",
+      "title": "CSS"
+    },
+    {
+      "id": "3",      
+      "title": "JavaScript"
+    },
+    {
+      "id": "4",
+      "title": "Php"
+    },
+    {
+      "id": "5",      
+      "title": "MySQL"
+    },
+    {
+      "id": "6",      
+      "title": "ReactJs"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "title": "Responsive Landing Page",
+      "description": "I developed this Responsive Landing Page on Supercars related News on ReactJs, while including HTML, CSS, JS. In which when scroll or hover on navbar it will change color etc.",
+      "link_n": "View In Github",
+      "link": "https://github.com/Bhavy21/PRODIGY_WD_01.git"
+    },
+    {
+      "id": "2",      
+      "title": "Stopwatch",
+      "description": "I create a stopwatch webapp with ReactJs including HTML, CSS, JS. Functionallities are working like normal stopwatch like starting, pausing, reseting and display lap times.",
+      "link_n": "View In Github",
+      "link": "https://github.com/Bhavy21/PRODIGY_WD_02.git"
+    },
+    {
+      "id": "3",      
+      "title": "Tic-Tac-Toe Game",
+      "description": "I create an Interactive Tic-Tac-Toe game webapp with ReactJs including HTML, CSS, JS. Functionallities to handle clicks, track game state, and check for winning conditions.",
+      "link_n": "View In Github",
+      "link": "https://github.com/Bhavy21/PRODIGY_WD_03.git"
+    }
+  ]
+}
